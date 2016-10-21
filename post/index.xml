@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Lushi Li</title>
+    <link>http://lushi.li/post/index.xml</link>
+    <description>Recent content in Post-rsses on Lushi Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2016 19:10:54 -0400</lastBuildDate>
+    <atom:link href="http://lushi.li/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world</title>
+      <link>http://lushi.li/post/hello-world/</link>
+      <pubDate>Fri, 21 Oct 2016 19:10:54 -0400</pubDate>
+      
+      <guid>http://lushi.li/post/hello-world/</guid>
+      <description>&lt;p&gt;你好，世界！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
